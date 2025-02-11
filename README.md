@@ -1,6 +1,16 @@
-# meta_pipe
+# MetaPipe
 
-A new Flutter project.
+The official Android client implementation for the paper titled: "MetaPipe: Predicting Metaphoric Associations and
+Turning Your Metaphoric Imagination into Reality"
+
+## Interface Preview
+![Preview](./preview.png)
+
+## Workflow of Context Module
+![Workflow of Context Module](./context_module.png)
+
+## Workflow of Relation Module and Source Module
+![Workflow of Relation Module and Source Module](./relation_and_source_modules.png)
 
 ## Getting Started
 
